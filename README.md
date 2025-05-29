@@ -35,7 +35,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/pashaxd
+git clone https://github.com/pashaxd/shop_juice
 cd shop_juice
 ```
 
